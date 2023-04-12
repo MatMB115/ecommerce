@@ -4,10 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079d8aa9-f882-4de3-9c4c-1cd0c982210e" name="Changes" comment="">
+    <list default="true" id="3db6d1ed-a6c4-4d76-adc5-74860cd8803f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-kafka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/ConsumerFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/GsonDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/GsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/KafkaDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/KafkaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-email/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-email/src/main/java/br/unifei/imc/ecommerce/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-fraud-detector/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-fraud-detector/src/main/java/br/unifei/imc/ecommerce/FraudDetectorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-fraud-detector/src/main/java/br/unifei/imc/ecommerce/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-log/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-log/src/main/java/br/unifei/imc/ecommerce/LogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-new-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-new-order/src/main/java/br/unifei/imc/ecommerce/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-new-order/src/main/java/br/unifei/imc/ecommerce/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/KafkaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/KafkaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/LogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/LogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/ConsumerFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/FraudDetectorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/GsonSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/KafkaDispactcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/KafkaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/NewOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-new-order/src/main/java/br/unifei/imc/ecommerce/NewOrderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/ConsumerFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/EmailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/FraudDetectorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/GsonSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/KafkaDispactcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/KafkaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/LogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/NewOrderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/Order.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +62,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,13 +78,8 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="ProjectId" id="2Npu05yz8jWlBlb75YPRfKRGqnA" />
+  <component name="ProjectId" id="2NtDCj5tF7XOWRnfwQRq5myr4Rw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -48,123 +87,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/maysu/Documentos/github/ecommerce&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_directory_selection": "/home/maysu/Documentos/github/ecommerce/common-kafka/src/main/java",
+    "last_opened_file_path": "/home/maysu/Documentos/github/ecommerce",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service-email/src/main/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="unifei.imc.ecommerce" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="unifei.imc.ecommerce" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="EmailService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unifei.imc.ecommerce.EmailService" />
-      <module name="ecommerce" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unifei.imc.ecommerce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FraudDetectorService (1)" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="unifei.imc.ecommerce.FraudDetectorService" />
-      <module name="ecommerce" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unifei.imc.ecommerce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FraudDetectorService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unifei.imc.ecommerce.FraudDetectorService" />
-      <module name="ecommerce" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unifei.imc.ecommerce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LogService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unifei.imc.ecommerce.LogService" />
-      <module name="ecommerce" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unifei.imc.ecommerce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unifei.imc.ecommerce.NewOrderMain" />
-      <module name="ecommerce" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unifei.imc.ecommerce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.FraudDetectorService (1)" />
-      <item itemvalue="Application.EmailService" />
-      <item itemvalue="Application.FraudDetectorService" />
-      <item itemvalue="Application.LogService" />
-      <item itemvalue="Application.NewOrderMain" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.EmailService" />
-        <item itemvalue="Application.FraudDetectorService" />
-        <item itemvalue="Application.NewOrderMain" />
-        <item itemvalue="Application.LogService" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="079d8aa9-f882-4de3-9c4c-1cd0c982210e" name="Changes" comment="" />
-      <created>1680373119002</created>
+      <changelist id="3db6d1ed-a6c4-4d76-adc5-74860cd8803f" name="Changes" comment="" />
+      <created>1680474361145</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680373119002</updated>
+      <updated>1680474361145</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
