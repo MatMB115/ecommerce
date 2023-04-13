@@ -5,54 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3db6d1ed-a6c4-4d76-adc5-74860cd8803f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-kafka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/ConsumerFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/GsonDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/GsonSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/KafkaDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/KafkaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-email/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-email/src/main/java/br/unifei/imc/ecommerce/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-fraud-detector/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-fraud-detector/src/main/java/br/unifei/imc/ecommerce/FraudDetectorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-fraud-detector/src/main/java/br/unifei/imc/ecommerce/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-log/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-log/src/main/java/br/unifei/imc/ecommerce/LogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-new-order/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-new-order/src/main/java/br/unifei/imc/ecommerce/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-new-order/src/main/java/br/unifei/imc/ecommerce/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/ConsumerFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/EmailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/FraudDetectorService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/GsonSerializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/KafkaDispactcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/KafkaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/LogService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/NewOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-new-order/src/main/java/br/unifei/imc/ecommerce/NewOrderMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unifei/imc/ecommerce/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/archetype.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/ConsumerFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/EmailService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/FraudDetectorService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/GsonSerializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/KafkaDispactcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/KafkaService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/LogService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/NewOrderMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unifei/imc/ecommerce/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/KafkaDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/KafkaDispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/KafkaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/src/main/java/br/unifei/imc/ecommerce/KafkaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/target/classes/br/unifei/imc/ecommerce/KafkaDispatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/target/classes/br/unifei/imc/ecommerce/KafkaDispatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-kafka/target/classes/br/unifei/imc/ecommerce/KafkaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-kafka/target/classes/br/unifei/imc/ecommerce/KafkaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-email/target/classes/br/unifei/imc/ecommerce/EmailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-email/target/classes/br/unifei/imc/ecommerce/EmailService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,20 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_directory_selection": "/home/maysu/Documentos/github/ecommerce/common-kafka/src/main/java",
-    "last_opened_file_path": "/home/maysu/Documentos/github/ecommerce",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/maysu/Documentos/github/ecommerce/common-kafka/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/maysu/Documentos/github/ecommerce&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/service-email/src/main/java" />
